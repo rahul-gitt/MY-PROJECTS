@@ -126,6 +126,11 @@ This project is intended for educational and portfolio purposes.
 
 ---
 
+---
+
+## 👨‍💻 Author
+
+**Rahul Mondal**
 
 
 ### ⭐ If you found this project helpful, consider giving it a star on GitHub!
