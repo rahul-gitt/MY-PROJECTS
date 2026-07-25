@@ -97,22 +97,6 @@ These visualizations help identify trends and support business decision-making.
 * Business Insight Generation
 * Python Programming
 
----
-
-## 📷 Project Preview
-
-> Add screenshots of your charts and analysis here.
-
----
-
-## 📚 Future Improvements
-
-* Build an interactive dashboard using Streamlit.
-* Perform sales forecasting.
-* Add machine learning models for prediction.
-* Create interactive visualizations with Plotly.
-
----
 
 ## 🤝 Contributing
 
